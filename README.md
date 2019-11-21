@@ -11,3 +11,7 @@ PENJELASAN TENTANG PRAKTIKUM MATERI LIST
 ![syntax tabel](https://user-images.githubusercontent.com/56971806/69370966-88244d00-0cd1-11ea-8210-9aede033d301.PNG)
 Dan hasilnya seperti dibawah ini.
 ![hasil](https://user-images.githubusercontent.com/56971806/69370968-88244d00-0cd1-11ea-9f3b-28f7d634c42c.png)
+
+FLOWCHART
+
+![20191122_031637](https://user-images.githubusercontent.com/56971806/69373539-9aed5080-0cd6-11ea-8255-cd00a4ab80ca.jpg)
